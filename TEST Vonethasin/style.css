@@ -1,0 +1,105 @@
+@import url( 'https://fonts.googleapis.com/css2?family=Noto+Sans+Lao:wght@400;700;800;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto sans laos', sans-serif;
+}
+body{
+    background-color: #fff;
+}
+.top-area {
+    background-color: #210969;
+}
+.menu-item {
+    color: white;
+    display: inline-block;
+    padding: 16px;
+    text-decoration: none;
+}
+.container01 h3{
+    color: red;
+    font-size: 35px;
+    text-align: center;
+    font-family: Phetsarath OT;
+}
+.container01 p{
+    color: red;
+}
+.container01 .box h4{
+    color: rgb(68, 66, 66);
+    font-size: 35px;
+    font-family: Phetsarath OT;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: center;
+    font-weight: bold;
+}
+.brand {
+    font-size: 20px;
+    font-weight: 600;
+}
+.container01{
+    max-width: 900px;
+    min-width: 600px;
+    margin: auto;
+}
+
+.box{
+    background-color: #ffff;
+    margin: 10px 5px 30px 50px;
+    padding: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.container01 .box .spce {
+    color: rgb(146, 146, 146);
+}
+.container01 .box p {
+    color: rgb(68, 66, 66);
+}
+.img{
+    width: 100%;
+}
+.buy {
+    color: #ffffff;
+    margin-top: 2rem;
+    background-color: seagreen;
+    padding: 8px;
+    width: 16%;
+    margin-left: 330px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Phetsarath OT;
+}
+.buy1 {
+    color: white;
+    margin-top: 2rem;
+    background-color: red;
+    padding: 8px;
+    width: 16%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+}
+.close {
+    color: #ffffff;
+    background-color: red;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+footer {
+    color: #fff;
+    background-color: #210969;
+    padding: 30px;
+    text-align: center;
+}
